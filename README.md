@@ -81,5 +81,5 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 
 ## Author
-Muskan Solanki
-Data Science and Machine Learning Enthusiast
+## Muskan Solanki
+## Data Science and Machine Learning Enthusiast
