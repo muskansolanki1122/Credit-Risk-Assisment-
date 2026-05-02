@@ -82,4 +82,4 @@ python -m streamlit run app.py
 
 ## Author
 ## Muskan Solanki
-## Data Science and Machine Learning Enthusiast
+Data Science and Machine Learning Enthusiast
